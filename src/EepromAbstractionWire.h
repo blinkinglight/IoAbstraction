@@ -15,7 +15,7 @@
 #include <Arduino.h>
 #include "EepromAbstraction.h"
 #include <TaskManager.h>
-#include <Wire.h>
+#include <wire.h>
 
 /** the page size for 32kbit (4KB) roms */
 #define PAGESIZE_AT24C32   32
