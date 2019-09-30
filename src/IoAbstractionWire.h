@@ -13,7 +13,7 @@
 #define _IOABSTRACTION_IOABSTRACTIONWIRE_H_
 
 #include "IoAbstraction.h"
-#include <Wire.h>
+#include <wire.h>
 
 /**
  * An implementation of BasicIoAbstraction that supports the PCF8574 i2c IO chip. Providing all possible capabilities
